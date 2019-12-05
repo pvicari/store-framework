@@ -44,7 +44,7 @@
         "tab-content#home"
       ]
     },
-    "tab-list#home": {
+    "tab-list": {
       "children": [
         "tab-list.item#home1",
         "tab-list.item#home2"
