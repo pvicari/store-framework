@@ -1,7 +1,7 @@
 {
     "store.custom#landing": { 
       "blocks": [
-        "image#landingbanner", 
+        "image#landingbanne", 
         "search-result-layout.customQuery"
       ]
     },
