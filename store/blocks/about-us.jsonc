@@ -8,7 +8,7 @@
     "flex-layout.row#about-us": {
       "children": [
         "image#about-us",
-        "flex-layout.col#text-about-us",
+        "flex-layout.col#text-about-us"
       ]
     },
     "flex-layout.col#text-about-us": {
